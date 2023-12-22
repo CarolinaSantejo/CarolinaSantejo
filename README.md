@@ -1,5 +1,4 @@
-## Projects
-### 🎓[My University projects](https://github.com/CarolinaSantejo/MiEI-UMinho)
+### 🎓[University projects](https://github.com/CarolinaSantejo/MiEI-UMinho)
 
 ## Statistics
 
