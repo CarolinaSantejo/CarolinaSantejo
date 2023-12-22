@@ -1,3 +1,5 @@
+## Projects
+
 ### 🎓[University projects](https://github.com/CarolinaSantejo/MiEI-UMinho)
 
 ## Statistics
